@@ -1,4 +1,3 @@
-var _ = require('lodash');
 const teams = require('./teams.json')
 
 function getCombinations(arr) {
@@ -112,15 +111,10 @@ module.exports = function (A, B) {
     // select special CVC considering 50% abv with less cvc value
 
     let smallcvc = [];
-    for (let i = 0; i < lessCVC.length; i++) {
-        for (let j = 0; j < C.length; j++) {
-            if (!_.isEqual(lessCVC[i], C[j]) && !playerPos(lessCVC[i], C[j])) {
-                if (lessCVC[i].C < 7 && C[j].VC > lessCVC[i].VC) {
-                    smallcvc.push([lessCVC[i], C[j]])
-                }
-                if (lessCVC[i].VC < 7 && C[j].C > lessCVC[i].C) {
-                    smallcvc.push([C[j], lessCVC[i]])
-                }
+    for (let i = 0; i < abv50.length; i++) {
+        for (let j = 0; j < abv50.length; j++) {
+            if (i !== j && getCVC(abv50[i], abv50[j])) {
+                smallcvc.push([abv50[i], abv50[j]])
             }
         }
     }
@@ -133,7 +127,6 @@ module.exports = function (A, B) {
     // console.log(cvc);
     console.log("Total combination CVC for 1 team: ", cvc.length);
     return { total: smallcvc.length, result: smallcvc }
-}
-// ("LKN","RCB")
+}("LKN","CHE")
 // ("DC", "SRH");
 // main("CHE", "RR");
