@@ -1,0 +1,208 @@
+{
+    "MI": {
+        "wkt": [
+            { "name": "IKishan", "team":"MI", "selected": 79.34, "pos": "opening bat", "mustpick": true, "C": 5.9, "VC": 7.65 }],
+        "bat": [
+            { "name": "RSharma", "team":"MI", "selected": 68.34, "pos": "opening bat", "mustpick": true, "C": 9.44, "VC": 8.9 },
+            { "name": "SYadav", "team":"MI","selected": 79.73, "pos": "mid", "mustpick": true, "C": 4.44, "VC": 7.8},
+            { "name": "TVerma", "team":"MI","selected": 29.74, "pos": "mid", "mustpick": false, "C": 0.9, "VC": 1.5},
+            { "name": "TDavid", "team":"MI","selected": 15.09, "pos": "mid", "mustpick": false, "C": 0.3, "VC": 0.5}
+            ],
+        "all": [
+            { "name": "CGreen","team":"MI", "selected": 95.52, "pos": "opening bowl", "mustpick": true, "C": 22.44, "VC": 20.2}
+            ],
+        "bowl": [
+            { "name": "KKartikeya","team":"MI", "selected": 2.34, "pos": "spin", "mustpick": false, "C": 0.44, "VC": 0.2},
+            { "name": "PChawla","team":"MI", "selected": 74.12, "pos": "spin", "mustpick": true, "C": 1.44, "VC": 3.2},
+            { "name": "JBehrendroff","team":"MI", "selected": 34.34, "pos": "opening bowl", "mustpick": false, "C": 0.44, "VC": 0.71},
+            { "name": "RMeredith","team":"MI", "selected": 10.34, "pos": "mid", "mustpick": false, "C": 0.44, "VC": 0.2}
+            ]
+        },
+    "GT": {
+        "wkt": [
+            { "name": "WSaha", "team":"GT","selected": 69.58, "pos": "opening bat", "mustpick": true, "C": 2.31, "VC": 2.5}
+            ],
+        "bat": [
+            { "name": "SGill","team":"GT", "selected": 88.64, "pos": "opening bat", "mustpick": true, "C": 25.44, "VC": 17.2},
+            { "name": "DMiller","team":"GT", "selected": 67.34, "pos": "mid", "mustpick": true, "C": 2.44, "VC": 3.2},
+            { "name": "AManohar","team":"GT", "selected": 11.48, "pos": "mid", "mustpick": true, "C": 0.3,"VC": 0.6},
+            { "name": "RTewatia", "team":"GT","selected": 8.76, "pos": "mid", "mustpick": true, "C": 0.1, "VC": 0.1}
+            ],
+        "all": [
+            { "name": "HPandya","team":"GT", "selected": 86.34, "pos": "mid", "mustpick": true, "C": 8.44, "VC": 11.2},
+            { "name": "VShankar", "team":"GT","selected": 50.32, "pos": "mid", "mustpick": true, "C": 1.8, "VC": 2.6}
+            ],
+        "bowl": [
+            { "name": "RashidKhan", "team":"GT","selected": 83.81, "pos": "mid", "mustpick": true, "C": 4.44,"VC": 7.2},
+            { "name": "MShami", "team":"GT","selected": 76.81, "pos": "opening bowl", "mustpick": true, "C": 2.44, "VC": 4.2},
+            { "name": "Jlittle", "team":"GT","selected": 12.88, "pos": "opening bowl", "mustpick": true, "C": 0.44, "VC": 0.2},
+            { "name": "NAhmed", "team":"GT","selected": 37.41, "pos": "mid", "mustpick": true, "C": 1.44, "VC": 2.2},
+            { "name": "MSharma", "team":"GT","selected": 9.98, "pos": "mid", "mustpick": true, "C": 0.44, "VC": 0.2}
+            ]
+    },
+    "RCB": {
+        "wkt": [
+            { "name": "DKartik","team":"RCB", "selected": 16.34, "pos": "mid", "mustpick": false, "C": 0.27, "VC": 0.32 }],
+        "bat": [
+            { "name": "VKohli", "team":"RCB","selected": 92.52, "pos": "opening bat", "mustpick": true, "C": 15.44, "VC": 12.2 },
+            { "name": "FDuPlessis", "team":"RCB","selected": 89.48, "pos": "opening bat", "mustpick": true, "C": 30.44, "VC": 11.2},
+            { "name": "MLomror", "team":"RCB","selected": 10.59, "pos": "mid", "mustpick": false, "C": 0.22, "VC": 0.2},
+            { "name": "SPrabhudesai", "team":"RCB","selected": 2.47, "pos": "mid", "mustpick": false, "C": 0.1, "VC": 0.2}
+            ],
+        "all": [
+            { "name": "GMaxwell", "team":"RCB","selected": 94.34, "pos": "mid", "mustpick": true, "C": 9.26, "VC": 17.2},
+            { "name": "WHasaranga", "team":"RCB","selected": 61.51, "pos": "spin", "mustpick": false, "C": 1.44, "VC": 2.2}
+            ],
+        "bowl": [
+            { "name": "MSiraj","team":"RCB", "selected": 89.66, "pos": "opening bowl", "mustpick": true, "C": 2.44, "VC": 4.0},
+            { "name": "HPatel", "team":"RCB","selected": 30.77, "pos": "mid", "mustpick": false, "C": 0.3, "VC": 0.5},
+            { "name": "Dwilley","team":"RCB", "selected": 8.9, "pos": "opening bowl", "mustpick": false, "C": 0.2, "VC": 0.6},
+            { "name": "VVijay", "team":"RCB","selected": 12.13, "pos": "mid", "mustpick": false, "C": 0.2, "VC": 0.4}
+            ]
+        },
+    "KKR": {
+        "wkt": [
+            { "name": "NJagdesan","team":"KKR", "selected": 23.91, "pos": "opening bat", "mustpick": false, "C": 0.36, "VC": 0.44},
+            { "name": "Gurbaz","team":"KKR", "selected": 40.91, "pos": "opening bat", "mustpick": false, "C": 4.36, "VC": 3.44}
+            ],
+        "bat": [
+            { "name": "NRana", "team":"KKR","selected": 79.29, "pos": "mid", "mustpick": true, "C": 7.44, "VC": 6.2},
+            { "name": "VIyer","team":"KKR", "selected": 76.11, "pos": "mid", "mustpick": false, "C": 12.98, "VC": 8.2},
+            { "name": "RSingh","team":"KKR", "selected": 44.9, "pos": "mid", "mustpick": true, "C": 0.9,"VC": 1.6}
+            ],
+        "all": [
+            { "name": "SNariane", "team":"KKR","selected": 37.19, "pos": "mid", "mustpick": false, "C": 0.44, "VC": 1.2},
+            { "name": "ARussel","team":"KKR", "selected": 77.73, "pos": "mid", "mustpick": false, "C": 7.8, "VC": 9.2},
+            { "name": "Dwisse", "team":"KKR","selected": 10.68, "pos": "opening bowl", "mustpick": false, "C": 0.44, "VC": 0.2},
+            { "name": "SThankur", "team":"KKR","selected": 24.68, "pos": "opening bowl", "mustpick": false, "C": 0.44, "VC": 0.2}
+            ],
+        "bowl": [
+            { "name": "HRana", "team":"KKR","selected": 8.81, "pos": "medium fast", "mustpick": false, "C": 0.44,"VC": 0.2},
+            { "name": "VChakravarthy", "team":"KKR","selected": 74.81, "pos": "spin", "mustpick": true, "C": 1.44, "VC": 4.2}
+            ]
+    },
+    "CHE": {
+        "wkt": [
+            { "name": "DConway","team":"CHE", "selected": 92.98, "pos": "opening bat", "mustpick": true, "C": 30.36, "VC": 10.44},
+            { "name": "MSDhoni","team":"CHE", "selected": 7.34, "pos": "mid", "mustpick": false, "C": 0.85, "VC": 0.4}
+            ],
+        "bat": [
+            { "name": "RGaikwad", "team":"CHE","selected": 89.34, "pos": "opening bat", "mustpick": true, "C": 18.44, "VC": 12.2},
+            { "name": "ARahane","team":"CHE", "selected": 79.55, "pos": "mid", "mustpick": true, "C": 5.46, "VC": 5.93},
+            { "name": "SDube","team":"CHE", "selected": 68.9, "pos": "mid", "mustpick": false, "C": 4.66,"VC": 5.71}            ],
+        "all": [
+            { "name": "MAli", "team":"CHE","selected": 55.19, "pos": "mid", "mustpick": false, "C": 2.44, "VC": 3.2},
+            { "name": "RJadeja","team":"CHE", "selected": 93.73, "pos": "mid", "mustpick": true, "C": 11.8, "VC": 13.4}
+            ],
+        "bowl": [
+            { "name": "TDeshpande", "team":"CHE","selected": 67.81, "pos": "opening bowl", "mustpick": true, "C": 0.6,"VC": 1.7},
+            { "name": "Asingh", "team":"CHE","selected": 5.81, "pos": "fast", "mustpick": false, "C": 0.1, "VC": 0.2},
+            { "name": "MTeekhsna", "team":"CHE","selected": 31.88, "pos": "spin", "mustpick": false, "C": 0.25, "VC": 0.55},
+            { "name": "MPathirana", "team":"CHE","selected": 11.41, "pos": "fast", "mustpick": false, "C": 0.20, "VC": 0.32}
+            ]
+    },
+    "RR": {
+        "wkt": [
+            { "name": "JButtler","team":"RR", "selected": 90.90, "pos": "opening bat", "mustpick": true, "C": 29.62, "VC": 15.17},
+            { "name": "SSamson","team":"RR", "selected": 58.90, "pos": "mid", "mustpick": true, "C": 3.36, "VC": 3.44}
+            ],
+        "bat": [
+            { "name": "YJaiswal", "team":"RR","selected": 87.76, "pos": "opening bat", "mustpick": true, "C": 15.16, "VC": 14.2},
+            { "name": "DPadikal","team":"RR", "selected": 33.88, "pos": "mid", "mustpick": true, "C": 0.7, "VC": 1.4},
+            { "name": "SHetmayer","team":"RR", "selected": 39.29, "pos": "mid", "mustpick": true, "C": 1.2,"VC": 1.6},
+            { "name": "Dyurel", "team":"RR","selected": 7.01, "pos": "mid", "mustpick": false, "C": 0.12, "VC": 0.25}
+            ],
+        "all": [
+            { "name": "RAshwin", "team":"RR","selected": 82.65, "pos": "spin", "mustpick": true, "C": 2.55, "VC": 5.33},
+            { "name": "Jholder","team":"RR", "selected": 20.8, "pos": "medium fast","mustpick": false, "C": 0.8, "VC": 0.8}
+            ],
+        "bowl": [
+            { "name": "TBoult", "team":"RR","selected": 48.81, "pos": "opening bowl", "mustpick": true, "C": 1.44,"VC": 2.5},
+            { "name": "SSharma", "team":"RR","selected": 20.81, "pos": "opening bowl", "mustpick": false, "C": 0.2, "VC": 0.46},
+            { "name": "YChahal", "team":"RR","selected": 51.33, "pos": "spin", "mustpick": false, "C": 0.44, "VC": 1.57},
+            { "name": "AZampa", "team":"RR","selected": 37.42, "pos": "spin", "mustpick": false, "C": 0.6, "VC": 1.5}
+            ]
+    },
+    "SRH": {
+        "wkt": [
+            { "name": "HKlasen","team":"SRH", "selected": 76.87, "pos": "mid", "mustpick": false, "C": 1.36, "VC": 1.82}],
+        "bat": [
+            { "name": "MAgarwal", "team":"SRH","selected": 69.34, "pos": "opening bat", "mustpick": true, "C": 3.44, "VC": 4.2},
+            { "name": "RTripathi","team":"SRH", "selected": 32.55, "pos": "mid", "mustpick": false, "C": 1.44, "VC": 2.2},
+            { "name": "HBrook","team":"SRH", "selected": 75.9, "pos": "opening bat", "mustpick": true, "C": 10.9,"VC": 9.6},
+            { "name": "ASharma", "team":"SRH","selected": 15.34, "pos": "mid", "mustpick": false, "C": 0.1, "VC": 1.1}
+            ],
+        "all": [
+            { "name": "AMarkaram", "team":"SRH","selected": 85.19, "pos": "mid", "mustpick": false, "C": 7.44, "VC": 14.2},
+            { "name": "MJanesen","team":"SRH", "selected": 57.73, "pos": "opening bowl","mustpick": true, "C": 1.8, "VC": 3.2}
+            ],
+        "bowl": [
+            { "name": "UMalik", "team":"SRH","selected": 24.81, "pos": "fast", "mustpick": false, "C": 0.44,"VC": 0.2},
+            { "name": "BKumar", "team":"SRH","selected": 56.81, "pos": "opening bowl", "mustpick": true, "C": 0.44, "VC": 1.2},
+            { "name": "MMarkande", "team":"SRH","selected": 34.88, "pos": "spin", "mustpick": false, "C": 0.44, "VC": 1.2},
+            { "name": "TNatrajan", "team":"SRH","selected": 18.88, "pos": "medium fast", "mustpick": false, "C": 0.44, "VC": 0.2}
+            ]
+    },
+    "DC": {
+        "wkt": [
+            { "name": "PSalt","team":"DC", "selected": 62.34, "pos": "opening bat", "mustpick": false, "C": 3.03, "VC": 3.0},
+            { "name": "SKhan","team":"DC", "selected": 4.34, "pos": "mid", "mustpick": false, "C": 0.36, "VC": 0.44}
+            ],
+        "bat": [
+            { "name": "Dwarner", "team":"DC","selected": 87.34, "pos": "opening bat", "mustpick": true, "C": 9.44, "VC": 10.2},
+            { "name": "MPandey","team":"DC", "selected": 29.9, "pos": "mid", "mustpick": false, "C": 0.71, "VC": 0.92},
+            { "name": "RPatel","team":"DC", "selected": 1.9, "pos": "mid", "mustpick": true, "C": 0.5,"VC": 0.6}
+            ],
+        "all": [
+            { "name": "APatel", "team":"DC","selected": 92.19, "pos": "spin", "mustpick": false, "C": 10.44, "VC": 15.2},
+            { "name": "MMarsh","team":"DC", "selected": 91.73, "pos": "medium fast","mustpick": false, "C": 25.8, "VC": 13.2}
+            ],
+        "bowl": [
+            { "name": "ANortje", "team":"DC","selected": 57.81, "pos": "opening bowl", "mustpick": false, "C": 1.44,"VC": 1.2},
+            { "name": "KYadav", "team":"DC","selected": 27.81, "pos": "spin", "mustpick": true, "C": 1.44, "VC": 2.2},
+            { "name": "MKumar", "team":"DC","selected": 4.88, "pos": "fast", "mustpick": false, "C": 0.09, "VC": 0.2},
+            { "name": "ISharma", "team":"DC","selected": 12.88, "pos": "fast", "mustpick": false, "C": 0.19, "VC": 0.2}
+            ]
+    },
+    "LKN": {
+        "wkt": [
+            { "name": "NPoran","team":"LKN", "selected": 93.22, "pos": "mid", "mustpick": false, "C": 1.36, "VC": 2.44}            ],
+        "bat": [
+            { "name": "LRahul", "team":"LKN","selected": 81.71, "pos": "opening bat", "mustpick": true, "C": 7.44, "VC": 7.85},
+            { "name": "DHooda","team":"LKN", "selected": 10.55, "pos": "mid", "mustpick": false, "C": 0.3, "VC": 0.4},
+            { "name": "ABadoni","team":"LKN", "selected": 32.9, "pos": "mid", "mustpick": false, "C": 0.5,"VC": 0.7}
+            ],
+        "all": [
+            { "name": "MStonis", "team":"LKN","selected": 92.98, "pos": "medium fast", "mustpick": true, "C": 18.44, "VC": 18.2},
+            { "name": "KPandya","team":"LKN", "selected": 49.93, "pos": "spin","mustpick": true, "C": 1.8, "VC": 3.97},
+            { "name": "KMayers","team":"LKN", "selected": 86.73, "pos": "opening bat","mustpick": true, "C": 10.8, "VC": 15.2}
+            ],
+        "bowl": [
+            { "name": "AKhan", "team":"LKN","selected": 8.81, "pos": "opening bowl", "mustpick": true, "C": 0.44, "VC": 0.2},
+            { "name": "RBishnoi", "team":"LKN","selected": 54.37, "pos": "spin", "mustpick": true, "C": 0.44, "VC": 0.9},
+            { "name": "NHaq", "team":"LKN","selected": 34.66, "pos": "opening bowl", "mustpick": false, "C": 0.4, "VC": 0.8},
+            { "name": "YThakur", "team":"LKN","selected": 34.66, "pos": "fast", "mustpick": false, "C": 0.2, "VC": 0.4}
+            ]
+    },
+    "PBSK": {
+        "wkt": [
+            { "name": "JSharma","team":"PBSK", "selected": 34.65, "pos": "mid", "mustpick": false, "C": 0.51, "VC": 0.69},
+            { "name": "PSingh","team":"PBSK", "selected": 14.85, "pos": "opening bat", "mustpick": false, "C": 0.54, "VC": 0.78}
+            ],
+        "bat": [
+            { "name": "SDhavan", "team":"PBSK","selected": 68.34, "pos": "opening bat", "mustpick": true, "C": 7.44, "VC": 9.2},
+            { "name": "SKhan","team":"PBSK", "selected": 4.88, "pos": "mid", "mustpick": false, "C": 0.07, "VC": 0.12},
+            { "name": "ATaide", "team":"PBSK","selected": 26.34, "pos": "opening bat", "mustpick": false, "C": 1.1, "VC": 1.9}
+            ],
+        "all": [
+            { "name": "LLivingstone", "team":"PBSK","selected": 57.19, "pos": "spin", "mustpick": true, "C": 2.44, "VC": 3.78},
+            { "name": "SCurran","team":"PBSK", "selected": 87.73, "pos": "medium fast","mustpick": true, "C": 7.8, "VC": 19.2},
+            { "name": "SRaza","team":"PBSK", "selected": 30.73, "pos": "medium fast","mustpick": false, "C": 2.8, "VC":2.2}
+            ],
+        "bowl": [
+            { "name": "ASingh", "team":"PBSK","selected": 77.81, "pos": "opening bowl", "mustpick": true, "C": 1.44,"VC": 3.2},
+            { "name": "KRabada", "team":"PBSK","selected": 12.88, "pos": "medium fast", "mustpick": false, "C": 0.6, "VC": 1.3},
+            { "name": "RChahar", "team":"PBSK","selected": 6.88, "pos": "spin", "mustpick": false, "C": 0.44, "VC": 0.2}
+            ]
+    }
+}
