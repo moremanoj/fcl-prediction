@@ -76,7 +76,8 @@ function playerPos(x, y) {
         return false
     }
 }
-module.exports = function (A, B) {
+
+function predict(A, B) {
 
     console.log("Predicting for Team: ", A, B);
     const { team1, team2 } = getTeams(A, B);
@@ -127,6 +128,8 @@ module.exports = function (A, B) {
     // console.log(cvc);
     console.log("Total combination CVC for 1 team: ", cvc.length);
     return { total: smallcvc.length, result: smallcvc }
-}("LKN","CHE")
+}
+module.exports = { predict }
+// ("LKN","CHE")
 // ("DC", "SRH");
 // main("CHE", "RR");
